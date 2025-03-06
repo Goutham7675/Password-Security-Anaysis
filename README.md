@@ -8,21 +8,3 @@ Project Structure
 server.py - Backend server using Flask to handle API requests and password checks.
 index.html - Frontend UI for password input and result display.
 style.css - (Optional) Stylesheet for better UI experience.
-Execution Instructions
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/password-security-analysis.git
-cd password-security-analysis
-Install dependencies:
-bash
-Copy
-Edit
-pip install flask requests
-Run the server:
-bash
-Copy
-Edit
-python server.py
-Access the application: Open your browser and go to http://127.0.0.1:5000/.
